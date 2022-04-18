@@ -1,0 +1,46 @@
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile (GNU Make)
+# Do not include, as it is not needed to be shown
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+# SVG (Scalable Vector Graphics) image file
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# Git Configuration files
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.gitattributes linguist-detectable=false
+*.gitattributes linguist-documentation=false
+*.gitignore linguist-detectable=false
+*.gitignore linguist-documentation=false
+*.editorconfig linguist-detectable=false
+*.editorconfig linguist-documentation=false
+# Plain Text document
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 4 (Monday, 2022 April 18th at 3:06 pm PST)
+# Line count (including blank lines and compiler line): 121
+# End of script
