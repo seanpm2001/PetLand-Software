@@ -42,9 +42,11 @@
 # Pug source file
 *.pug linguist-detectable=true
 *.pug linguist-documentation=false
-# Python source file
-*.py linguist-detectable=true
-*.py linguist-documentation=false
+# Fish source file
+*.fish linguist-detectable=true
+*.fish linguist-documentation=false
+*.fish linguist-language=fish
+# Some files were detected as Shell instead of Fish. This is also the fourth time I am using this parameter.
 # Mustache source file
 *.mustache linguist-detectable=true
 *.mustache linguist-documentation=false
@@ -113,6 +115,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (Monday, 2021 November 29th at 3:14 pm)
-# Line count (including blank lines and compiler line): 119
+# File version: 4 (Monday, 2022 April 18th at 3:06 pm PST)
+# Line count (including blank lines and compiler line): 121
 # End of script
